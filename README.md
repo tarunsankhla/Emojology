@@ -1,0 +1,2 @@
+# Emojology
+Created with CodeSandbox
